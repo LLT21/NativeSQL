@@ -1,0 +1,6 @@
+# Cake - Uncomment if you are using it
+# tools/
+**/bin/
+**/obj/
+**/deploy/
+.DS_Store
