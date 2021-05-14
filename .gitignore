@@ -4,3 +4,4 @@
 **/obj/
 **/deploy/
 .DS_Store
+ConnectionStrings.cs
